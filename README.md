@@ -7,8 +7,9 @@ Represents a overview of Electric Vehicle (EV) adoption and performance across I
 
 Dataset: https://www.kaggle.com/datasets/shubhamindulkar/ev-datasets-for-the-indian-market
 
-KPI Cards (Top Section)
-1. Sum of FCD – 44.64K
+- KPI Cards (Top Section)
+
+  1. Sum of FCD – 44.64K
 
 It shows: Total value of FCD (Fast Charging Demand / Financial Credit Distributed — based on your dataset meaning).
 
