@@ -5,4 +5,5 @@ India’s EV Vision
 Represents a overview of Electric Vehicle (EV) adoption and performance across India, combining registrations, charging, battery capacity, and state-wise insights.
 
 
+Dataset: https://www.kaggle.com/datasets/shubhamindulkar/ev-datasets-for-the-indian-market
 
